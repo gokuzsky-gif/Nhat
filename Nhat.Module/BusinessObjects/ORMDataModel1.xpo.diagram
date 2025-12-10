@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<visualDesignerDiagram dslVersion="1.0.0.0" Id="e69982ed-4cb0-4953-90e9-1ab198544128" absoluteBounds="0, 0, 11, 8.5" name="ORMDataModel1">
+  <dataBaseObjectModelMoniker Id="d6828d51-c33e-4ed1-a494-59d787451a66" />
+  <nestedChildShapes>
+    <xpObjectShape Id="1a4a2b98-a58e-4ff8-975d-7049b68fd884" absoluteBounds="4.1083335876464844, 1.7500001192092896, 1.5, 1.9473746744791667">
+      <xpObjectMoniker Id="84ff94a8-48d8-4a96-a8fd-24c8eb628752" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b73df46d-91e0-4e56-a309-a8d584694362" absoluteBounds="4.1233335876464841, 2.0600001192092896, 1.4700000000000002, 1.0185953776041665" name="Fields" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="b432460e-5261-4057-acd0-5115f6543000" absoluteBounds="4.1233335876464841, 3.0885954968134559, 1.4700000000000002, 0.2493896484375" name="Indexes" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="f929eeed-ddc8-4771-bd8b-d23bfd387389" absoluteBounds="4.1233335876464841, 3.3479851452509561, 1.4700000000000002, 0.2493896484375" name="Collections" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </xpObjectShape>
+    <xpObjectShape Id="2832fc05-59cc-42d0-8242-fc5e3cdee6b8" absoluteBounds="7.40000057220459, 1.9166667461395264, 1.5, 2.1396761067708328">
+      <xpObjectMoniker Id="7fb08c64-65b8-4971-9f11-46de16ab179d" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1cf777a4-8cfd-47aa-b959-b02cdb81e8ad" absoluteBounds="7.4150005722045895, 2.2266667461395264, 1.4700000000000002, 1.2108968098958333" name="Fields" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="b2e11766-7efb-4276-9e80-5ce30e98fd10" absoluteBounds="7.4150005722045895, 3.4475635560353597, 1.4700000000000002, 0.2493896484375" name="Indexes" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="19c2338f-4193-434f-8410-637543db885d" absoluteBounds="7.4150005722045895, 3.7069532044728595, 1.4700000000000002, 0.2493896484375" name="Collections" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </xpObjectShape>
+  </nestedChildShapes>
+</visualDesignerDiagram>
